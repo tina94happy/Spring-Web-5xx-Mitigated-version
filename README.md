@@ -23,3 +23,7 @@ This software is provided under the terms of the ISC License. See the [LICENSE](
 
 ## Acknowledgments
 Special thanks to the Spring Framework community for their continuous efforts in enhancing the security and functionality of the framework.
+
+
+## More Reference
+https://www.sourceclear.com/vulnerability-database/security/remote-code-execution-rce/java/sid-22252
